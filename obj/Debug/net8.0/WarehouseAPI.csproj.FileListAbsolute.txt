@@ -46,3 +46,4 @@
 /home/user/source/repos/WarehouseAPI/bin/Debug/net8.0/Npgsql.dll
 /home/user/source/repos/WarehouseAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /home/user/source/repos/WarehouseAPI/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/user/source/repos/WarehouseAPI/obj/Debug/net8.0/WarehouseAPI.sourcelink.json
